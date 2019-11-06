@@ -1,0 +1,34 @@
+body{
+    background: #ffffff;
+}
+h1{
+    font-family: 'Mansalva', cursive;
+}
+.intro{
+	margin-top: 20px
+}
+.espacebtn{
+	margin-top: 60px
+}
+
+.bloc{
+	margin-top: 50px;
+}
+.illu img{
+	width: 100;
+}
+.news{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.marge{
+	margin-top: 10px;
+}
+.retu{
+	margin-top: 150px;
+}
+
+.saut{
+	margin-top: 200px;
+}

@@ -1,0 +1,49 @@
+body{margin: 0;
+}
+
+
+
+
+
+header{font-family: 'Mansalva', cursive;  background: #C3C0C1; }
+
+.banner{
+    background-image: url(file:///C:/Users/33614/OneDrive/Bureau/DMDA-frame/tuto%20correction%201/dmda_prof/dmda_prof/img/BACK.png);
+    background-size: cover;
+    background padding: 100px
+
+}
+
+ 
+
+.couleur{color: white}
+
+
+#wraper{
+    width: 64em;
+    max-width: calc(100% - 4em);
+    margin: 0 auto;}
+
+
+
+
+.photopp {
+	size: 20px;
+	width: 35%;
+}
+
+.photo_1{
+	text-align: center;
+}
+
+
+.center img{
+    width:40%;
+   margin-left: auto;
+   margin-right: auto;
+    
+    display: block;
+    height:350px;
+    
+}
+
